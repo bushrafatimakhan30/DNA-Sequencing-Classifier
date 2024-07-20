@@ -6,6 +6,8 @@ The long DNA sequences are made of a combination of these 4 bases and each sequn
 The main objective of this project is to identify the class which those long sequences belongs to.
 
 Our independent variable(X) is sequence and dependent variable(y) is the class label(0-6) i.e. Multi class classification.
+
+![image alt](https://github.com/bushrafatimakhan30/DNA-Sequencing-Classifier/blob/33974610e25ef53cdc4aa471d270890dc3f6952e/dna.jpg)
 # Project Roadmap
 Let us understand the basic approach of this project :
 
